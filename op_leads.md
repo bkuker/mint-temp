@@ -59,6 +59,8 @@ We recommend that the board:
 
 Officially Create a small leadership group with responsibility for operational spending and responsibility for making day-to-day decisions.
 
+**Honestly, we'll be creating this role as we go at the beginning**
+
 
 ## Non-Responsibilities
 
