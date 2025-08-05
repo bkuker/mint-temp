@@ -23,6 +23,7 @@ The Operational Leads would:
 * Provide access to funds for operational expenses
     * Make purchases or approve reimbursements for day-to-day needs, within predefined budgets and policies.
     * Act as first-line oversight to ensure spending stays responsible and documented.
+    * Report internal expenses up the chain
 
 * Oversee Internal Policy and Committee Coordination
     * Approve policies developed by volunteer groups and guilds—especially those that affect multiple areas.
@@ -72,6 +73,8 @@ This is an operational, internal-facing role.
     * Full on bookkeeping
     * Taxes
     * Reporting
+* Classes
+    * Hopefully not even instructor payments but open 
 * External relationships
 * PR & Marketing
 * Major purchases / improvements / capex
